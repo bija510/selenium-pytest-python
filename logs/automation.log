@@ -1,0 +1,4 @@
+09/04/2020 10:25:02 AM: INFO: ----------TestloginClass---------
+09/04/2020 10:25:02 AM: INFO: ----------Verifying HomePage Title---------
+09/04/2020 10:25:04 AM: INFO: ----------Home page verification Passed---------
+09/04/2020 10:25:16 AM: ERROR: ----------test_login page verification Passed---------
