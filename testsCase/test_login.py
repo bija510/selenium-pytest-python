@@ -1,18 +1,19 @@
 from pagesObjects.loginPage import LoginPage
 from selenium import webdriver
 import pytest
+from utilites.readProperties import ReadConfig
 
 class TestloginClass():
-	baseUrl = "https://opensource-demo.orangehrmlive.com/"
-	userName ="Admin"
-	password = "admin123"
+	baseUrl = ReadConfig.getApplicationURL()
+	userName = ReadConfig.getUserName()
+	password = ReadConfig.getPassword()
 
 	def test_homePageTitle(self, setup):
 		self.driver = setup
 		self.driver.get(self.baseUrl)
 		actTitle = self.driver.title
 
-		if actTitle =='OrangeHR':
+		if actTitle =='OrangeHRM':
 			assert True
 		else:
 			self.driver.save_screenshot(
@@ -31,7 +32,7 @@ class TestloginClass():
 		self.lp.clickLoginButton()
 		actTitle = self.driver.title
 
-		if actTitle == 'OrangeHR':
+		if actTitle == 'OrangeHRM':
 			assert True
 		else:
 			self.driver.save_screenshot("../Screenshot/" + "test_login1.png")
