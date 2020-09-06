@@ -20,6 +20,7 @@ class TestloginClass():
 
 	logger = logGen.loggen()
 
+	@pytest.mark.smoke
 	def test_login(self, setup):
 		self.driver = setup
 		self.driver.get(self.baseUrl)
@@ -49,19 +50,3 @@ class TestloginClass():
 
 	# py.test -v -s test_loginDDT.py --browser chrome
 	#self.driver.close()
-
-"""
-https://github.com/pavanoltraining/nopCommerceProject
-# py.test -v -s test_login.py
-# py.test -v -s test_login.py --browser chrome
-# py.test -v -s test_login.py --browser firefox
-# Run parallel max -3 ===>How many method we have just pass num
-# py.test -v -s test_loginDDT.py --browser chrome
-# To run Anything we have to Run from CMD or terminal ==r-click package -->
-# Open in terminal --> py.test
-# To run full with details--> py.test -v -s
-# To run individual --> py.test -s test_case_demo1.py
-# py.test -v -s --html=../Reports/report.html test_login.py --browser chrome
-
-"""
-
