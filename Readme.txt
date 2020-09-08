@@ -10,6 +10,11 @@ Always run as Admin
 2. At he end we can write pause also
 3. Also in CMD we can write little+ tab --> give auto completion
 
+***************************************************************************
+Note: we can write:- pytest -v -s testsCase/test_zTemp.py --browser chrome
+***************************************************************************
+pytest = py.test samehing
+***************************************************************************
 
 https://github.com/pavanoltraining/nopCommerceProject
 http://admin-demo.nopcommerce.com

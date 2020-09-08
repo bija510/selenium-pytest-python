@@ -1,0 +1,26 @@
+{
+    "firstName": "Racks",
+    "lastName": "jackson",
+    "age": null,
+    "gender": "male",
+    "isUSCitizen": "true",
+
+    "address": {
+        "city": "San Jose",
+        "postalCode": "95221",
+        "state": "PA",
+        "streetAddress": "Philly"
+    },
+
+    "phoneNumbers": [
+        {
+            "number": "12345",
+            "type": "Home"
+        },
+        {
+            "number": "678910",
+            "type": "Mobile"
+        }
+    ],
+    "salary": 250000.5
+}
