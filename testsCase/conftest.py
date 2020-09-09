@@ -2,20 +2,29 @@ from selenium import webdriver
 import pytest
 
 
-@pytest.fixture()
+@pytest.yield_fixture()
 def setup(browser):
 	#driver = webdriver.Chrome()
 	if browser == 'chrome':
 		driver = webdriver.Chrome()
+		driver.maximize_window()
+		driver.implicitly_wait(10)
 		print("Lunching Chrome browser")
 
 	elif browser == 'firefox':
 		driver = webdriver.Firefox()
+		driver.maximize_window()
+		driver.implicitly_wait(10)
 		print("Lunching Firefox browser")
 
 	else:
 		driver = webdriver.Ie()
-	return driver
+		driver.maximize_window()
+		driver.implicitly_wait(10)
+
+	yield driver #This is equal to return driver
+	print("---This return driver and closing it---")
+	driver.quit()
 
 
 def pytest_addoption(parser): # this will get the value from CLI / hooks

@@ -37,8 +37,9 @@ class DatadriverJson:
 		driver.find_element_by_xpath("//input[@placeholder='Last Name']").send_keys(lastName)
 		driver.find_element_by_xpath("//*[@id='basicBootstrapForm']/div[2]/div/textarea").send_keys(city+' '+state+' '+postalCode)
 		driver.find_element_by_xpath("//*[@id='basicBootstrapForm']/div[4]/div/input").send_keys(type2+phoneNumber1)
-
+		driver.save_screenshot("../Screenshot/" + "demoAuto" + str(round(time.time() * 1)) + ".png")
 		time.sleep(4)
+		print()
 
 cc =DatadriverJson()
 cc.jsonData()

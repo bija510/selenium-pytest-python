@@ -3,6 +3,7 @@ from selenium import webdriver
 import pytest
 from utilites.customLogger import logGen
 from utilites.readProperties import ReadConfig
+import time
 
 class TestloginClass():
 	baseUrl = ReadConfig.getApplicationURL()
@@ -21,12 +22,9 @@ class TestloginClass():
 
 		if actTitle =='OrangeHRM':
 			assert True
-			self.driver.close()
 			self.logger.info("----------Home page verification Passed---------")
 		else:
-			self.driver.save_screenshot(
-				"../Screenshot/" + "testHomepage1.png")
-			self.driver.close()
+			self.driver.save_screenshot("../Screenshot/" + "test_Homepage1"+ str(round(time.time()*1))+".png")
 			self.logger.error("----------Home page verification Failed---------")
 			assert False
 
@@ -43,15 +41,13 @@ class TestloginClass():
 
 		if actTitle == 'OrangeHRM':
 			assert True
-			self.driver.close()
 			self.logger.error("----------test_login page verification Passed---------")
 
 		else:
-			self.driver.save_screenshot("../Screenshot/" + "test_login1.png")
-			self.driver.close()
+			self.driver.save_screenshot("../Screenshot/" + "test_login"+ str(round(time.time()*1))+".png")
 			self.logger.error("----------test_login page verification Failed---------")
 			assert False
 
-		#self.driver.close()
+
 
 

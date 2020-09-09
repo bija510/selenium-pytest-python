@@ -4,8 +4,7 @@ import pytest
 from utilites.customLogger import logGen
 from utilites.readProperties import ReadConfig
 from utilites import XLUtils
-import  time
-
+import time
 
 class TestloginClass():
 
@@ -31,14 +30,12 @@ class TestloginClass():
 		self.lp.clickLoginButton()
 		actTitle = self.driver.title
 		time.sleep(3)
-		if actTitle == 'OrangeHRM':
+		if actTitle == 'OrangeHR':
 			assert True
-			self.driver.close()
 			self.logger.error("----------test_login page verification Passed---------")
 
 		else:
-			self.driver.save_screenshot("../Screenshot/" + "test_login1.png")
-			self.driver.close()
+			self.driver.save_screenshot("../Screenshot/" + "testLoginDDT"+ str(round(time.time()*1))+".png")
 			self.logger.error("----------test_login page verification Failed---------")
 			assert False
 
@@ -49,4 +46,3 @@ class TestloginClass():
 	XLUtils.writeData(path, "Sheet1", 3, 2, "Test_LoginDDT Pass")
 
 	# py.test -v -s test_loginDDT.py --browser chrome
-	#self.driver.close()
