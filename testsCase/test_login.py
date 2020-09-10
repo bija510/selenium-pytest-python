@@ -5,7 +5,7 @@ from utilites.customLogger import logGen
 from utilites.readProperties import ReadConfig
 import time
 
-class TestloginClass():
+class TestloginClass(): #Class name should start from >>--> Test and method name test_methodname
 	baseUrl = ReadConfig.getApplicationURL()
 	userName = ReadConfig.getUserName()
 	password = ReadConfig.getPassword()

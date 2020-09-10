@@ -4,6 +4,8 @@ cd testsCase
 py.test -v -s test_loginDDT.py --browser chrome
 REM py.test -v -s test_login.py --browser chrome
 REM py.test -v -s test_login.py --browser firefox
+REM py.test -v -s test_login.py --browser edge
+REM py.test -v -s test_login.py
 
 REM py.test -v -s -n=2 test_login.py --browser chrome
 

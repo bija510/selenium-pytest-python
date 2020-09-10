@@ -9,6 +9,7 @@ Always run as Admin
 1. To use Comment in bat File we can use {" REM ", " :: "} infront of the command
 2. At he end we can write pause also
 3. Also in CMD we can write little+ tab --> give auto completion
+4. pip install webdriver_manager ----> pip list ---> show all the plugin list 
 
 ***************************************************************************
 Note: we can write:- pytest -v -s testsCase/test_zTemp.py --browser chrome

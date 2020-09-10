@@ -1,6 +1,5 @@
 import json
-from selenium import webdriver
-import time
+from pagesObjects.DDTjsonPage import DDTjsonPage
 
 #read file
 myjsonfile =open('../testData/inputData.json', 'r')
@@ -27,19 +26,13 @@ type1 = list[0].get("type")
 phoneNumber2 = list[1].get("number")
 type2 = list[1].get("type")
 
+class Testdemoauto:
 
-class DatadriverJson:
-	def jsonData(self):
-		driver = webdriver.Chrome()
-		driver.maximize_window()
-		driver.get('http://demo.automationtesting.in/Register.html')
-		driver.find_element_by_xpath("//input[@placeholder='First Name']").send_keys(firstName)
-		driver.find_element_by_xpath("//input[@placeholder='Last Name']").send_keys(lastName)
-		driver.find_element_by_xpath("//*[@id='basicBootstrapForm']/div[2]/div/textarea").send_keys(city+' '+state+' '+postalCode)
-		driver.find_element_by_xpath("//*[@id='basicBootstrapForm']/div[4]/div/input").send_keys(type2+phoneNumber1)
-		driver.save_screenshot("../Screenshot/" + "demoAuto" + str(round(time.time() * 1)) + ".png")
-		time.sleep(4)
-		print()
-
-cc =DatadriverJson()
-cc.jsonData()
+	def test_register(self, setup):
+		self.driver = setup
+		self.dd = DDTjsonPage(self.driver)
+		self.dd.openUrl("http://demo.automationtesting.in/Register.html")
+		self.dd.enterFirstName(firstName)
+		self.dd.enterLastName(lastName)
+		self.dd.enterAddress(city+' '+state+' '+postalCode)
+		self.dd.enterPhoneNumbers(type2 + phoneNumber1)

@@ -1,26 +1,34 @@
 from selenium import webdriver
+from webdriver_manager.microsoft import IEDriverManager
+from webdriver_manager.chrome import ChromeDriverManager
+from webdriver_manager.firefox import GeckoDriverManager
+from webdriver_manager.microsoft import EdgeChromiumDriverManager
 import pytest
 
 
 @pytest.yield_fixture()
 def setup(browser):
-	#driver = webdriver.Chrome()
-	if browser == 'chrome':
-		driver = webdriver.Chrome()
-		driver.maximize_window()
+	if browser == 'ie':
+		driver = webdriver.Ie(executable_path=IEDriverManager().install())  # No maxmize need
 		driver.implicitly_wait(10)
-		print("Lunching Chrome browser")
+		print("Lunching IE browser")
 
 	elif browser == 'firefox':
-		driver = webdriver.Firefox()
-		driver.maximize_window()
+		driver = webdriver.Firefox(executable_path=GeckoDriverManager().install()) #No maxmize need
 		driver.implicitly_wait(10)
 		print("Lunching Firefox browser")
 
-	else:
-		driver = webdriver.Ie()
+	elif browser == 'edge':
+		driver = webdriver.Edge(executable_path=EdgeChromiumDriverManager().install())
 		driver.maximize_window()
 		driver.implicitly_wait(10)
+		print("Lunching Edge browser")
+
+	else:
+		driver = webdriver.Chrome(executable_path=ChromeDriverManager().install())
+		driver.maximize_window()
+		driver.implicitly_wait(10)
+		print("Lunching Chrome browser")
 
 	yield driver #This is equal to return driver
 	print("---This return driver and closing it---")

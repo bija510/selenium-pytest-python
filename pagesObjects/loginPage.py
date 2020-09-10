@@ -8,7 +8,7 @@ class LoginPage():
 
 	#driver = webdriver.Chrome()
 
-	def __init__(self, driver):
+	def __init__(self, driver): #NOTE INIT NOT ALWAYS FORGET
 		self.driver = driver
 
 	def setUserName(self, userName):

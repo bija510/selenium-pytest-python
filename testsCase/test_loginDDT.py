@@ -30,7 +30,7 @@ class TestloginClass():
 		self.lp.clickLoginButton()
 		actTitle = self.driver.title
 		time.sleep(3)
-		if actTitle == 'OrangeHR':
+		if actTitle == 'OrangeHRM':
 			assert True
 			self.logger.error("----------test_login page verification Passed---------")
 
