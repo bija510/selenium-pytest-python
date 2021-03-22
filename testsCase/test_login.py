@@ -5,6 +5,7 @@ from utilites.customLogger import logGen
 from utilites.readProperties import ReadConfig
 import time
 
+#@pytest.mark.usefixtures('setup') we can do this insted of writing setup in everymethod
 class TestloginClass(): #Class name should start from >>--> Test and method name test_methodname
 	baseUrl = ReadConfig.getApplicationURL()
 	userName = ReadConfig.getUserName()
@@ -30,6 +31,7 @@ class TestloginClass(): #Class name should start from >>--> Test and method name
 
 	@pytest.mark.smoke
 	def test_login(self, setup):
+
 		self.driver = setup
 		self.driver.get(self.baseUrl)
 
