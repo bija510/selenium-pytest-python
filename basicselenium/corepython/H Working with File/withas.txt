@@ -1,0 +1,1 @@
+example of with as write/read

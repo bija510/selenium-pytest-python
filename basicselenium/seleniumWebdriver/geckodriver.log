@@ -1,0 +1,781 @@
+Invalid port. Exiting...
+1611976728379	geckodriver	INFO	Listening on 127.0.0.1:56482
+1611976731459	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BIJAYA~1\\AppData\\Local\\Temp\\rust_mozprofileIZTHGc"
+1611976740268	geckodriver	INFO	Listening on 127.0.0.1:56498
+1611976743308	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BIJAYA~1\\AppData\\Local\\Temp\\rust_mozprofile9X3PnE"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611976745865	Marionette	INFO	Listening on port 56512
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611976745986	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611976745996	Marionette	ERROR	[15] No reply from Marionette:Register
+1611976829484	Marionette	INFO	Stopped listening on port 56512
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BIJAYA~1\\AppData\\Local\\Temp\\rust_mozprofileYVVDYU"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611976792541	Marionette	INFO	Listening on port 56712
+1611976792633	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611976792642	Marionette	ERROR	[15] No reply from Marionette:Register
+1611976815651	Marionette	INFO	Stopped listening on port 56712
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611977275734	geckodriver	INFO	Listening on 127.0.0.1:57290
+1611977278802	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BIJAYA~1\\AppData\\Local\\Temp\\rust_mozprofileWkb2h4"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611977280584	Marionette	INFO	Listening on port 57301
+1611977280839	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611977280848	Marionette	ERROR	[15] No reply from Marionette:Register
+1611977431265	Marionette	INFO	Stopped listening on port 57301
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BIJAYA~1\\AppData\\Local\\Temp\\rust_mozprofilewhPuHN"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611977365355	Marionette	INFO	Listening on port 57447
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611977365720	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611977365729	Marionette	ERROR	[15] No reply from Marionette:Register
+1611977430672	Marionette	INFO	Stopped listening on port 57447
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BIJAYA~1\\AppData\\Local\\Temp\\rust_mozprofilejQ6yaH"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611977391208	Marionette	INFO	Listening on port 57540
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611977391629	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611977391638	Marionette	ERROR	[18] No reply from Marionette:Register
+1611977430005	Marionette	INFO	Stopped listening on port 57540
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611977545576	geckodriver	INFO	Listening on 127.0.0.1:57723
+1611977548613	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BIJAYA~1\\AppData\\Local\\Temp\\rust_mozprofileBMQnfj"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611977550798	Marionette	INFO	Listening on port 57735
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611977551289	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611977551298	Marionette	ERROR	[15] No reply from Marionette:Register
+1611977697831	Marionette	INFO	Stopped listening on port 57735
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BIJAYA~1\\AppData\\Local\\Temp\\rust_mozprofileuTtgnQ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611977655657	Marionette	INFO	Listening on port 57893
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611977656087	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611977656096	Marionette	ERROR	[18] No reply from Marionette:Register
+1611977668956	Marionette	INFO	Stopped listening on port 57893
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611978398482	geckodriver	INFO	Listening on 127.0.0.1:58467
+1611978401558	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BIJAYA~1\\AppData\\Local\\Temp\\rust_mozprofileQp73yI"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611978403386	Marionette	INFO	Listening on port 58476
+1611978403601	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611978403612	Marionette	ERROR	[15] No reply from Marionette:Register
+1611978923626	Marionette	INFO	Stopped listening on port 58476
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BIJAYA~1\\AppData\\Local\\Temp\\rust_mozprofilet8DSxJ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611978652798	Marionette	INFO	Listening on port 58764
+1611978653130	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611978653139	Marionette	ERROR	[15] No reply from Marionette:Register
+1611978922491	Marionette	INFO	Stopped listening on port 58764
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BIJAYA~1\\AppData\\Local\\Temp\\rust_mozprofile8wsxRu"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611978695193	Marionette	INFO	Listening on port 58886
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611978695509	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611978695517	Marionette	ERROR	[18] No reply from Marionette:Register
+1611978706094	Marionette	INFO	Stopped listening on port 58886
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611979504055	geckodriver	INFO	Listening on 127.0.0.1:59650
+1611979507137	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BIJAYA~1\\AppData\\Local\\Temp\\rust_mozprofilem8Vtyf"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611979508948	Marionette	INFO	Listening on port 59661
+1611979509172	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611979509183	Marionette	ERROR	[15] No reply from Marionette:Register
+1611979517262	Marionette	ERROR	[35] No reply from Marionette:Register
+1611979560511	Marionette	INFO	Stopped listening on port 59661611979561561	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BIJAYA~1\\AppData\\Local\\Temp\\rust_mozprofilen9iRDu"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611979563135	Marionette	INFO	Listening on port 59806
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611979563616	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611979563625	Marionette	ERROR	[15] No reply from Marionette:Register
+1611979571285	Marionette	ERROR	[35] No reply from Marionette:Register
+1611979582510	Marionette	INFO	Stopped listening on port 59806
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611979685295	geckodriver	INFO	Listening on 127.0.0.1:59987
+1611979688358	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BIJAYA~1\\AppData\\Local\\Temp\\rust_mozprofileehkNNy"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611979689934	Marionette	INFO	Listening on port 59998
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611979690415	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611979690424	Marionette	ERROR	[15] No reply from Marionette:Register
+1611979701527	Marionette	ERROR	[35] No reply from Marionette:Register
+1611979767660	Marionette	INFO	Stopped listening on port 59998
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BIJAYA~1\\AppData\\Local\\Temp\\rust_mozprofiletJ2O5f"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611979768773	Marionette	INFO	Listening on port 60157
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611979769137	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611979769145	Marionette	ERROR	[15] No reply from Marionette:Register
+1611979779607	Marionette	ERROR	[35] No reply from Marionette:Register
+1611979786354	Marionette	INFO	Stopped listening on port 60157
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612032934485	geckodriver	INFO	Listening on 127.0.0.1:62416
+1612032937493	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BIJAYA~1\\AppData\\Local\\Temp\\rust_mozprofileEJXvAU"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612032940403	Marionette	INFO	Listening on port 62426
+1612032940692	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612032940701	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612032947216	Marionette	INFO	Stopped listening on port 62426
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612032968037	geckodriver	INFO	Listening on 127.0.0.1:62487
+1612032971083	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BIJAYA~1\\AppData\\Local\\Temp\\rust_mozprofile5RLdMJ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612032972952	Marionette	INFO	Listening on port 62497
+1612032973148	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612032973156	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&32984109&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&32984554&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&32985849&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33028053&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33028401&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33028503&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ec-ns.sascdn.com/diff/rtb/handler/st.min.html?%7b%22bid%22%3a%22388259639083294392%22%2c%22adomain%22%3a%22digitalworkplaceguide.com%22%2c%22page%22%3a%221170907%22%2c%22format%22%3a%2276023%22%2c%22crid%22%3a%22147-602882_2_S%22%2c%22dsp%22%3a%22349%22%2c%22buyer%22%3a%22137998%22%2c%22cid%22%3a%22147-602882%22%2c%22adid%22%3a%220346f34562e8%22%2c%22hash%22%3a%22-2050385816183366682%22%7d, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33072632&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33073789&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33117124&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33117185&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33118943&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33163474&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33163991&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33164211&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33207927&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33207883&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33208597&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33253318&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33343600&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Bijaya Chhetri\AppData\Local\Temp\rust_mozprofile5RLdMJ\protections.sqlite
+1612038240291	Marionette	INFO	Stopped listening on port 62497
+Script error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33191906&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33191366&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33236183&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33237219&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33238579&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33281356&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33281378&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33283410&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33326665&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33326668&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33327937&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33371672&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33371761&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33371022&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33417325&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33506885&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Bijaya Chhetri\AppData\Local\Temp\rust_mozprofileKva1u5\protections.sqlite
+1612038239818	Marionette	INFO	Stopped listening on port 63270
+s://ap.lijit.com/www/delivery/fpi.js?{random}&33328562&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33372753&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33372477&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33374724&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33420246&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33420017&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33421408&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33465905&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33465091&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33465493&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33507412&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33599132&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://s0.2mdn.net/ads/richmedia/studio/pv2/60595643/20210112082840031/textShrink.js, line 13: TypeError: element is null
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Bijaya Chhetri\AppData\Local\Temp\rust_mozprofileCjn5PI\protections.sqlite
+1612038241617	Marionette	INFO	Stopped listening on port 64057
+nction
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33453898&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33497477&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33497616&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33497180&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33545588&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33546808&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33549346&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33586206&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33587521&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33588491&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33636372&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33637776&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33637063&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33677910&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33766384&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+[Parent 4484, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 716: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1612038239110	Marionette	INFO	Stopped listening on port 65275
+avaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33638361&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33679009&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33680832&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33681936&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33722695&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33722950&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33724985&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33767017&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33767942&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33767096&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33812196&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33907995&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Bijaya Chhetri\AppData\Local\Temp\rust_mozprofiletTKLNL\protections.sqlite
+1612038239035	Marionette	INFO	Stopped listening on port 49974
+: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612033884806	Marionette	INFO	Listening on port 52516
+1612033885117	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612033885129	Marionette	ERROR	[18] No reply from Marionette:Register
+JavaScript error: https://cdn.snigelweb.com/pub/w3schools.com/20200508/snhb-w3schools.com.min.js?202012151930, line 123: TypeError: d.loadGlobalSettings is undefined
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33897861&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33897863&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33901276&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33941166&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33943029&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33943376&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33988918&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33988946&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33988081&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&34032936&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&34034321&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&34034792&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612034042024	Marionette	INFO	Stopped listening on port 52516
+this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&33981674&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://s.update.aniview.com/2/1.20.3/main.js?o=1, line 1: TypeError: e is null
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&34020144&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&34021544&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&34021726&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&34063897&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&34063517&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&34065557&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&34108057&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&34109277&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&34112279&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&34155429&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&34155035&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&34156735&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&34198752&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&34200249&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&34202821&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&34244728&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&34333220&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Bijaya Chhetri\AppData\Local\Temp\rust_mozprofileZZHeOn\protections.sqlite
+1612038240941	Marionette	INFO	Stopped listening on port 53314
+EV3Zga"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612036068085	Marionette	INFO	Listening on port 57437
+1612036068272	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612036068288	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&36085222&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&36087259&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&36088747&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Bijaya Chhetri\AppData\Local\Temp\rust_mozprofileEV3Zga\protections.sqlite
+1612036101168	Marionette	INFO	Stopped listening on port 57437
+1612036239715	geckodriver	INFO	Listening on 127.0.0.1:58188
+1612036242756	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BIJAYA~1\\AppData\\Local\\Temp\\rust_mozprofileu0zLqd"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612036247372	Marionette	INFO	Listening on port 58202
+1612036247635	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612036247655	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://ec-ns.sascdn.com/diff/rtb/handler/st.min.html?%7b%22bid%22%3a%22389667014175611396%22%2c%22adomain%22%3a%22digitalworkplaceguide.com%22%2c%22page%22%3a%221170907%22%2c%22format%22%3a%2276023%22%2c%22crid%22%3a%22147-602882_2_S%22%2c%22dsp%22%3a%22349%22%2c%22buyer%22%3a%22137998%22%2c%22cid%22%3a%22147-602882%22%2c%22adid%22%3a%220346f34562e8%22%2c%22hash%22%3a%22-2050385816183366682%22%7d, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&36262743&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&36264200&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Bijaya Chhetri\AppData\Local\Temp\rust_mozprofileu0zLqd\protections.sqlite
+1612036274300	Marionette	INFO	Stopped listening on port 58202
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612036461264	geckodriver	INFO	Listening on 127.0.0.1:58957
+1612036464342	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BIJAYA~1\\AppData\\Local\\Temp\\rust_mozprofile2hb7ac"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612036468233	Marionette	INFO	Listening on port 58965
+1612036468546	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612036468559	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&36482100&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&36482232&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&36483245&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Bijaya Chhetri\AppData\Local\Temp\rust_mozprofile2hb7ac\protections.sqlite
+1612036510585	Marionette	INFO	Stopped listening on port 58965
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612036716608	geckodriver	INFO	Listening on 127.0.0.1:59917
+1612036719941	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BIJAYA~1\\AppData\\Local\\Temp\\rust_mozprofileffF2nC"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612036725900	Marionette	INFO	Listening on port 59931
+1612036726052	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612036726067	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://cdn.snigelweb.com/pub/w3schools.com/20200508/snhb-w3schools.com.min.js?202012151930, line 123: TypeError: d.loadGlobalSettings is undefined
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&36740073&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&36741420&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&36743601&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&36785715&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&36788212&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&36788221&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&36832508&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&36832428&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&36833016&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&36872540&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&36875883&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&36878776&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&36919027&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&36923647&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&36928821&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&36962529&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&36964455&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&37008336&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&37100075&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Bijaya Chhetri\AppData\Local\Temp\rust_mozprofileffF2nC\protections.sqlite
+1612038241050	Marionette	INFO	Stopped listening on port 59931
+
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&37094648&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&37095831&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&37097041&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&37136434&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&37137676&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&37137275&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&37184588&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&37185308&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&37188861&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&37228626&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&37229248&z=756817&width=728&height=901612037287589	Marionette	INFO	Stopped listening on port 62017
+or: https://ap.lijit.com/www/delivery/fpi.js?{random}&37229337&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&37274269&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&37274457&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&37275291&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Bijaya Chhetri\AppData\Local\Temp\rust_mozprofile8WzC5I\protections.sqlite
+1612037288785	Marionette	INFO	Stopped listening on port 61226
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612037335451	geckodriver	INFO	Listening on 127.0.0.1:63152
+1612037338518	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BIJAYA~1\\AppData\\Local\\Temp\\rust_mozprofile5eRvUP"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612037342848	Marionette	INFO	Listening on port 63162
+1612037343336	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612037343352	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&37355106&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&37356881&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&37357629&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 716: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1612037367315	Marionette	INFO	Stopped listening on port 63162
+1612037465091	geckodriver	INFO	Listening on 127.0.0.1:63783
+1612037468153	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BIJAYA~1\\AppData\\Local\\Temp\\rust_mozprofileKQQqRf"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612037473038	Marionette	INFO	Listening on port 63797
+1612037473637	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612037473725	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://cdn.snigelweb.com/pub/w3schools.com/20200508/snhb-w3schools.com.min.js?202012151930, line 123: TypeError: d.loadGlobalSettings is undefined
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 789: AbortError: Could not dispatch task to background thread
+1612037525755	Marionette	INFO	Stopped listening on port 63797
+1612037686020	geckodriver	INFO	Listening on 127.0.0.1:64601
+1612037689075	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BIJAYA~1\\AppData\\Local\\Temp\\rust_mozprofile7Oslkb"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612037692428	Marionette	INFO	Listening on port 64613
+1612037693126	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612037693176	Marionette	ERROR	[18] No reply from Marionette:Register
+JavaScript error: https://cdn.viglink.com/api/vglnk.js, line 135: TypeError: window.document.location is null
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Bijaya Chhetri\AppData\Local\Temp\rust_mozprofile7Oslkb\protections.sqlite
+1612038238218	Marionette	INFO	Stopped listening on port 64613
+ule)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612037862537	Marionette	INFO	Listening on port 65359
+1612037862751	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612037862766	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&37878042&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&37878481&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&37880254&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&37919900&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&37919148&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&37920605&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&37977926&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&37977417&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&37977471&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&38019195&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&38019390&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&38029912&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&38066007&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&38066610&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&38069086&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&38112111&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&38118755&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&38118529&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&38174010&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Bijaya Chhetri\AppData\Local\Temp\rust_mozprofiley0HdB5\protections.sqlite
+1612038243042	Marionette	INFO	Stopped listening on port 65359
+, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&38105084&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&38108731&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&38148210&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&38148257&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&38152797&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&38212798&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&38213580&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Bijaya Chhetri\AppData\Local\Temp\rust_mozprofilezjA2Cy\protections.sqlite
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xB60006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xB60006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xB60006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xB60006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xB60006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1612038234903	Marionette	INFO	Stopped listening on port 49802
+ta\Local\Temp\rust_mozprofileZD2T4O\protections.sqlite
+1612038233430	Marionette	INFO	Stopped listening on port 51590
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612038286290	geckodriver	INFO	Listening on 127.0.0.1:52552
+1612038289351	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BIJAYA~1\\AppData\\Local\\Temp\\rust_mozprofileVfCip0"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612038292125	Marionette	INFO	Listening on port 52560
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612038292536	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612038292544	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://ec-ns.sascdn.com/diff/rtb/handler/st.min.html?%7b%22bid%22%3a%22387415214495801935%22%2c%22adomain%22%3a%22hrblock.com%22%2c%22page%22%3a%221170907%22%2c%22format%22%3a%2276023%22%2c%22crid%22%3a%22147-596845_2_S%22%2c%22dsp%22%3a%22349%22%2c%22buyer%22%3a%22137998%22%2c%22cid%22%3a%22147-596845%22%2c%22adid%22%3a%22e1ae6ab4a806%22%2c%22hash%22%3a%228805040279935632762%22%7d, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&38302258&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&38302540&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&38346867&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&38347037&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&38347819&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+1612038383484	Marionette	INFO	Stopped listening on port 52560
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612038624563	geckodriver	INFO	Listening on 127.0.0.1:53334
+1612038627645	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BIJAYA~1\\AppData\\Local\\Temp\\rust_mozprofile4R7vCu"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612038629468	Marionette	INFO	Listening on port 53342
+1612038629697	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612038629709	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: https://cdn.snigelweb.com/pub/w3schools.com/20200508/snhb-w3schools.com.min.js?202012151930, line 123: TypeError: d.loadGlobalSettings is undefined
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&38641961&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&38641029&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&38642028&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&38684326&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&38684803&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&38684249&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&38729850&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&38729943&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&38730581&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&38774878&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&38774815&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&38775018&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&38819300&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&38819700&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&38819801&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&38864222&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&38864355&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&38864392&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&38909223&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&38999390&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+[Parent 21192, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Bijaya Chhetri\AppData\Local\Temp\rust_mozprofile4R7vCu\protections.sqlite
+1612040707381	Marionette	INFO	Stopped listening on port 53342
+sole.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612039091953	Marionette	INFO	Listening on port 54590
+1612039092128	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612039092139	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://www.softwaretestingmaterial.com/sample-webpage-to-automate/, line 2340: ReferenceError: jQuery is not defined
+1612039097959	Marionette	INFO	Stopped listening on port 54590
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+[Child 19056, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Bijaya Chhetri\AppData\Local\Temp\rust_mozprofileNPPKuo\protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612039194914	geckodriver	INFO	Listening on 127.0.0.1:54845
+1612039197946	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BIJAYA~1\\AppData\\Local\\Temp\\rust_mozprofilehPPLQ7"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612039199556	Marionette	INFO	Listening on port 54855
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612039199995	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612039200007	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+console.warn: services.settings: main/whats-new-panel sync interrupted by shutdown
+1612039200517	Marionette	INFO	Stopped listening on port 54855
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612039207527	geckodriver	INFO	Listening on 127.0.0.1:54895
+1612039210570	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BIJAYA~1\\AppData\\Local\\Temp\\rust_mozprofilesEHvrz"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612039212470	Marionette	INFO	Listening on port 54905
+1612039212616	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612039212624	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://www.softwaretestingmaterial.com/sample-webpage-to-automate/, line 2340: ReferenceError: jQuery is not defined
+1612039218733	Marionette	INFO	Stopped listening on port 54905
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Bijaya Chhetri\AppData\Local\Temp\rust_mozprofilesEHvrz\protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612039437821	geckodriver	INFO	Listening on 127.0.0.1:55201
+1612039440873	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BIJAYA~1\\AppData\\Local\\Temp\\rust_mozprofileTPclrX"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612039442863	Marionette	INFO	Listening on port 55211
+1612039442916	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612039442926	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://www.softwaretestingmaterial.com/sample-webpage-to-automate/, line 2340: ReferenceError: jQuery is not defined
+1612039448823	Marionette	INFO	Stopped listening on port 55211
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Bijaya Chhetri\AppData\Local\Temp\rust_mozprofileTPclrX\protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612039974563	geckodriver	INFO	Listening on 127.0.0.1:55773
+1612039977614	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BIJAYA~1\\AppData\\Local\\Temp\\rust_mozprofileRWnm3q"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612039979277	Marionette	INFO	Listening on port 55785
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612039979687	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612039979695	Marionette	ERROR	[18] No reply from Marionette:Register
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&39990286&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&39990515&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&39991060&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&40034248&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&40034436&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&40035974&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&40078405&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&40079975&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&40079644&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&40124096&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&40124348&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&40124644&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&40168787&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&40168997&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&40169898&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&40214937&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&40215730&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&40215163&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&40259922&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&40349015&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+[Parent 22592, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 716: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1612040705482	Marionette	INFO	Stopped listening on port 55785
+r: https://ap.lijit.com/www/delivery/fpi.js?{random}&40245691&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&40245874&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&40245738&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&40289595&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&40379529&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+[Parent 14704, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Bijaya Chhetri\AppData\Local\Temp\rust_mozprofileJWnSEw\protections.sqlite
+1612040706604	Marionette	INFO	Stopped listening on port 56299
+t a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&40268615&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&40268801&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&40270160&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&40312263&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&40313450&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&40313462&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&40357306&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&40358689&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&40358881&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&40402375&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&40402248&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&40402612&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&40450343&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&40450853&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&40450062&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&40492723&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&40585154&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://s0.2mdn.net/ads/richmedia/studio/pv2/60595643/20210112082840031/textShrink.js, line 13: TypeError: element is null
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Bijaya Chhetri\AppData\Local\Temp\rust_mozprofile92BNLi\protections.sqlite
+1612040704976	Marionette	INFO	Stopped listening on port 57430
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&40489399&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&40489688&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&40534100&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&40535524&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&40536497&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&40579866&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&40580234&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&40580342&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&40631829&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&40631614&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&40633950&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&40677277&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&40677387&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&40677360&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Bijaya Chhetri\AppData\Local\Temp\rust_mozprofiledS5HMe\protections.sqlite
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xB60006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xB60006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 716: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1612040705070	Marionette	INFO	Stopped listening on port 60071
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+g: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xB60006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xB60006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1612040704887	Marionette	INFO	Stopped listening on port 59061
+eIrIcHyUXxwHQkt5a-EYXrBZDjDVHwToUtClw9b00tgmQ5BQNr5bLwWJMWoXzeJUhcCSm-g98XIPwAI9nhrBXLThSsLr2ZUDSjGmNsmrhV44WYU_kDqZp3Hd4K6hM8Et5gd0NmHoaXFmADVCSY4veWbP8C74N5RhrIARwyPwVonnT6sLt8rMbdLYYUVPXyBZIzc9jobn3_YLV0fGU7CDRG1ZW2vy5xj37CK72YpU2MQAn4ZdhMOgkZ2NV966Eobsqz2-uZvpuWmr-_WfVZcE-wVx8wh9Mxmohmx9hTzew3Q4BzPrATMz9HHyHyV6TjWkZp0OH4ZS0fEVbBhisnKqzfxZonTOs7o6-KZzB0WMlinEfWccQZSrZVPYOVhazsZzNMUIwODKMAy5uoV2sf0D10Gj0TuzElNhvKuBapGOayAJ69YO5WonNnQj_wtsRHMY5OMs94q_9AFP26FUN7PiUWhCbadt7mxMC-I17w2pSKwDfnXNCqJesW-U8wNLgRZtBXAQPhrci55GMuSYfshk_NzBvpuG67l_yUHERXioGh6eaG8CK3_wkt1YQNj0Go0bbhUXDrLSC5ZWxNyrAsBuZiyhJPktqTefld1PQupG7gZ_bU89VHa-fh5Tpo8zHSpbl_b9sz3P6wfqdUJKttyg0s24oLIgrSVCjiV3L_B7LTRox7aGgAy-0MouCpwStXoVh3IQNGmXK-yIYrV3JWb2jpeccW5T9g_64oLjfhTCLIU_peCLZKmDVH_vgPr2H89HlzBR3xfeV6zzExJSdjbWa49fxCyYnNhhhwwbWQGpXyOpZpZGxPag1okG8VNI51aMqSlpyOgDQ-YBtr78l6tJtuWUGxXcpk9v48DUtO3njlItTSc4NEFIBhA2QjjACL30IPocZKTB8gMdJdLzpinNiWz5Q59GFG7Kum-jJtUBYpwC2lnCEoQ_t_t9xgr1MRk-9TyQNKUwmQzXVk0ax3-q7xJcSj-iMDENAyDCPxD8GzFnrZFaQarA6XUlV11DeGkKRzeMXZWCEi1R4vtQn_cQp6thPNddJGLwdDQvqmwO1WhwoJs14KfmSSfoQqXsjT2dbbsSiyCR0cQZwebYpWnq8UiHDyol8j_hMgtQSHdjYPoPfoXCobum7f8g1R2xPkLaHroK2N0-kjSMiuhTRohiNdh7Wfos1CM7Q-wfHUjbBR0KK_0Cbhafop1cZPvn3P823jJsWOmVvsHIQLChctipz_xN2HgKjYXxGCZ6Jbf_UfaYdPq9zw6q3_2GnhV3GQlNDyR-4nNZOo9PWjrvkwdD9jWXhYd2Artsu2_fCB9Bzk4LQfhJMJx3-fAjhx0LFUy-QwjHM_xlT2Uf2fKI2d-htHZOpXyjM_Ro22k199bvEfP2Gm8787sEd9HO1IhDDlPoj08fs62OxzsxPd5HwxZ9CqD9Wim0NQ8UGR6_5G83ZgPTwQWjVlF-aTeyNbdR2nx2ifGenS-CR2Pn9mTQM-QfqD8idp3NJoQmvnShWslNcznnQ0KzDofieV_JQgnP3SqtKOSU9jOzTsE8BKwoGKMkKrEDOtv_3ktcFt-gea37b75hsztFRmj6v9OUYsA1iYhP5J53Bl51tr_rNJzcRo2ztAdvyi6b8J54XznRmTjSk4MknRVc-juqlLsgcoPw_I-gICOWkZRhLXU_-HcA4dqtE1ybFj3nQ9qs7g6b1gPNNlCmH_yq6Af8xY66bkyaO0-Hj0EBq2sWghQFpCAwC5Gpx-7rRENqb_HuiHjscAhFjoqbrsClx4EOxNIfNX4BTqvA36HwjCptY9c4Nz2XnAncCvFtPSHAVHbldWrvnHWTGcKw-NZBlVqmuGUYs-QrOdjLG6hbXG_wrSsa-ExXAJ9b8O95kHCuAL9Z-cjseC6-W80zaaM7Dk3V8l3ChBKQBgPzAvmXtikjoXyudwKxKg494VuMF8OdRE9guQThL_lDluYCmRQjlezLnMeqYRBSFF8z24ZUOvysXblxVvzQasB32K_odwwb9U2Ffe0EvOnrFLol3_dw_XkEItDYQX2eBJcFrWCAMyOJVGI1qQfOvsJ6ylXA3FKnt_JdLobQwJvXGN37ex1lic5i3urgBH8j2aVfgmiFu34RjW53Xs6MZpRQYm_DxHapD9bRlOOJMOA-njfFjTqg2pB9YPeRpX2rR4hlrhiicwjKKt2-ZJnD0fOb5QUzCCsvsKRaklZqovDIYWirRW1_cgJqnBj1JSmc-__A69mm0COUdy8qQ3gG1yzQL_1QPl0Ee_mar2Hu93Fp_xYW5_5gqiLIGYWbnM7y0Yz6D1OOJy-bHWFGkqv9XGACccbT9rRuhy6vknjqUQCqPFFuj5jni7cO1FX0G52kMuLkQuKpMtcAu-H_WqZgTqy5DqvY6Mshr5uBokzkNarH1sN1PYrGx2VqaSIaQQgAEj3kaFvif1Z0yNhXc_UJ5B-LMOn8fRJtyJNB97F3aMJVF7y6_fKgnE1nu6-rDg_LiXXdA34wK914NHfXcAaYYAE, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&40600897&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&40600843&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&40603411&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&40648534&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&40650320&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&40650135&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&40693357&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&40698200&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&40698191&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+1612040703832	Marionette	INFO	Stopped listening on port 60944
+ght=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&40669979&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&40672043&z=756817&width=728&height=90, line 2: TypeError: this.log is not a function
+1612040702765	Marionette	INFO	Stopped listening on port 61759
+1612041584188	geckodriver	INFO	Listening on 127.0.0.1:49652
+1612041587368	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BIJAYA~1\\AppData\\Local\\Temp\\rust_mozprofileMuMQVv"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612041590184	Marionette	INFO	Listening on port 49661
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612041590558	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612041590568	Marionette	ERROR	[18] No reply from Marionette:Register
+1612041597750	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1612041599809	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0158,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 716: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0158,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0158,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0158,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0158,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A014B,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A014B,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A014B,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A00D2,name=PContent::Msg_SetGeolocationHigherAccuracy) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A014B,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A015F,name=PContent::Msg_CommitWindowContextTransaction) Closed channel: cannot send/recv
+
+1616420943125	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BIJAYA~1\\AppData\\Local\\Temp\\rust_mozprofile.0OcwBZigI8u3"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616420956699	Marionette	INFO	Listening on port 52620
+1616420957095	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616420970145	Marionette	INFO	Stopped listening on port 52620
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
