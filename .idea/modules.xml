@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/seleniumPython.iml" filepath="$PROJECT_DIR$/.idea/seleniumPython.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/selenium-pytest-python.iml" filepath="$PROJECT_DIR$/.idea/selenium-pytest-python.iml" />
     </modules>
   </component>
 </project>
