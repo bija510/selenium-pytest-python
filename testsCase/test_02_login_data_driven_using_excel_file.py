@@ -45,4 +45,4 @@ class TestloginClass():
 
 	XLUtils.writeData(path, "Sheet1", 3, 2, "Test_LoginDDT Pass")
 
-	# py.test -v -s test_loginDDT.py --browser chrome
+	# py.test -v -s test_02_login_data_driven_using_excel_file.py --browser chrome

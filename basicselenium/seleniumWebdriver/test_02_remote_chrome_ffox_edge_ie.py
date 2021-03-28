@@ -4,6 +4,9 @@ from webdriver_manager.chrome import ChromeDriverManager
 from webdriver_manager.firefox import GeckoDriverManager
 from webdriver_manager.microsoft import EdgeChromiumDriverManager
 
+#https://pypi.org/project/webdriver-manager/
+#pip3 install webdriver_manager ----> pip3 list ---> show all the plugin list
+
 class TestRemoteDriver:
     driver =None
     def test_Chrome(self):
@@ -31,9 +34,3 @@ class TestRemoteDriver:
         driver.implicitly_wait(10)
         driver.get("https://www.walmart.com")
         print(driver.capabilities.get('browserName'))
-
-browser = Test_RemoteDriver()
-#browser.test_Edge()
-browser.test_Chrome()
-#browser.test_Ie()
-#cc.test_Firefox()

@@ -1,7 +1,7 @@
 import unittest
-from basicselenium.unittestpackage.UT_02_ClassAndMethodLevel_Setup_Teardown_test import TestCaseDemo2
-from basicselenium.unittestpackage.UT_03_sameAs_UT_02 import TestClass2
-from basicselenium.unittestpackage.UT_04_Asserts_test import SimpleTest
+from basicselenium.unittestpackage.test_02_class_and_methodlevel_setup_teardown import TestCaseDemo2
+from basicselenium.unittestpackage.test_03_same_as_02 import TestClass2
+from basicselenium.unittestpackage.test_04_asserts import SimpleTest
 
 # Get all tests from TestClass1 and TestClass2
 tc1 = unittest.TestLoader().loadTestsFromTestCase(TestCaseDemo2)
@@ -14,4 +14,5 @@ smokeTest = unittest.TestSuite([tc1, tc2, tc3])
 
 unittest.TextTestRunner(verbosity=2).run(smokeTest)
 
-#to Run from  terminal type this ==> python UnitTestPackage/Z_test_suite_demo.py
+#To Run from  terminal type this ==> python UnitTestPackage/Z_test_suite_demo.py
+#python UnitTestPackage/Z_test_suite_demo.py --html=../Reports/report22.html --browser chrome

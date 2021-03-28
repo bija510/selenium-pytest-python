@@ -62,8 +62,8 @@ def pytest_metadata(metadata):
     metadata.pop("Plugins", None)
 
 
-#py.test -v -s test_login.py --browser chrome
-#py.test -v -s test_login.py --browser firefox
-#py.test -v -s --html=../Reports/report.html test_login.py --browser chrome
+#py.test -v -s test_01_login.py --browser chrome
+#py.test -v -s test_01_login.py --browser firefox
+#py.test -v -s --html=../Reports/report.html test_01_login.py --browser chrome
 
 
