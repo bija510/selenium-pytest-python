@@ -1,7 +1,7 @@
 import unittest
-from UnitTestPackage.UT_02_ClassAndMethodLevel_Setup_Teardown_test import TestCaseDemo2
-from UnitTestPackage.UT_03_sameAs_UT_02 import TestClass2
-from UnitTestPackage.UT_04_Asserts_test import SimpleTest
+from basicselenium.unittestpackage.UT_02_ClassAndMethodLevel_Setup_Teardown_test import TestCaseDemo2
+from basicselenium.unittestpackage.UT_03_sameAs_UT_02 import TestClass2
+from basicselenium.unittestpackage.UT_04_Asserts_test import SimpleTest
 
 # Get all tests from TestClass1 and TestClass2
 tc1 = unittest.TestLoader().loadTestsFromTestCase(TestCaseDemo2)

@@ -1,1 +1,12 @@
-[]
+[
+  "Z_test_suite_demo.py::SimpleTest::test1",
+  "Z_test_suite_demo.py::SimpleTest::test2",
+  "Z_test_suite_demo.py::SimpleTest::test3",
+  "Z_test_suite_demo.py::SimpleTest::test4",
+  "Z_test_suite_demo.py::SimpleTest::test5",
+  "Z_test_suite_demo.py::SimpleTest::test6",
+  "Z_test_suite_demo.py::TestCaseDemo2::test_methodA",
+  "Z_test_suite_demo.py::TestCaseDemo2::test_methodB",
+  "Z_test_suite_demo.py::TestClass2::test_class2_methodA",
+  "Z_test_suite_demo.py::TestClass2::test_class2_methodB"
+]
