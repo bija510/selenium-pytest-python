@@ -5,6 +5,7 @@ from utilites.custom_logger import logGen
 from utilites.read_ini_file import ReadConfig
 from utilites import excel_util
 import time
+import os
 
 class TestloginClass():
 
@@ -12,7 +13,9 @@ class TestloginClass():
 	# Reading Data from Excel File
 	###############################
 
-	path = "../data/InputData.xlsx"
+	rawpath = os.getcwd()+ "\\data\\InputData.xlsx"
+	path = rawpath.replace("\\", "/")
+
 	baseUrl = excel_util.readData(path, "Sheet1", 2, 1)
 	userName = excel_util.readData(path, "Sheet1", 3, 1)
 	password = excel_util.readData(path, "Sheet1", 4, 1)

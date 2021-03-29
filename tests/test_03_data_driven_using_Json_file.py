@@ -1,8 +1,11 @@
 import json
+import os
 from pages.DDTjsonPage import DDTjsonPage
 
 #read file
-myjsonfile =open('../data/inputData.json', 'r')
+path = os.getcwd()+'\\data\\inputData.json'
+
+myjsonfile =open(path, 'r')
 jsondata = myjsonfile.read()
 
 #parse
@@ -29,6 +32,7 @@ type2 = list[1].get("type")
 class Testdemoauto:
 
 	def test_register(self, setup):
+		print("==========>" + path)
 		self.driver = setup
 		self.dd = DDTjsonPage(self.driver)
 		self.dd.openUrl("http://demo.automationtesting.in/Register.html")

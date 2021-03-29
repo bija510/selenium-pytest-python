@@ -12,7 +12,8 @@ import pytest
 # if there is yield === NO return can be used
 
 @pytest.yield_fixture()
-def setup(browser):
+def setup():
+    browser = "edge"
     if browser == 'ie':
         driver = webdriver.Ie(executable_path=IEDriverManager().install())  # No maxmize need
         driver.implicitly_wait(10)
@@ -39,28 +40,27 @@ def setup(browser):
     print("---This return driver and closing it---")
     driver.quit()
 
+#NOTE: we have issue conficting --browser argument NOT WORKING
+# def pytest_addoption(parser): # this will get the value from CLI / hooks
+#     parser.addoption("--browser")
 
-def pytest_addoption(parser): # this will get the value from CLI / hooks
-    parser.addoption("--browser")
-
-@pytest.fixture()
-def browser(request): # this will return the browser value from setup method
-    return request.config.getoption("--browser")
-
-########### pytest HTML Report ################
-
-# It is hook for Adding Environment info to HTML Report
-def pytest_configure(config):
-    config._metadata['Project Name'] = 'letskodeit'
-    config._metadata['Module Name'] = 'Customers'
-    config._metadata['Tester'] = 'Bijay'
-
-# It is hook for delete/Modify Environment info to HTML Report
-@pytest.mark.optionalhook
-def pytest_metadata(metadata):
-    metadata.pop("JAVA_HOME", None)
-    metadata.pop("Plugins", None)
-
+# @pytest.fixture()
+# def browser(request): # this will return the browser value from setup method
+#     return request.config.getoption("--browser")
+#
+# ########### pytest HTML Report ################
+#
+# # It is hook for Adding Environment info to HTML Report
+# def pytest_configure(config):
+#     config._metadata['Project Name'] = 'letskodeit'
+#     config._metadata['Module Name'] = 'Customers'
+#     config._metadata['Tester'] = 'Bijay'
+#
+# # It is hook for delete/Modify Environment info to HTML Report
+# @pytest.mark.optionalhook
+# def pytest_metadata(metadata):
+#     metadata.pop("JAVA_HOME", None)
+#     metadata.pop("Plugins", None)
 
 #py.test -v -s test_01_login.py --browser chrome
 #py.test -v -s test_01_login.py --browser firefox
