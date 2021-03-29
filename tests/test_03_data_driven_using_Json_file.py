@@ -1,8 +1,8 @@
 import json
-from pagesObjects.DDTjsonPage import DDTjsonPage
+from pages.DDTjsonPage import DDTjsonPage
 
 #read file
-myjsonfile =open('../testData/inputData.json', 'r')
+myjsonfile =open('../data/inputData.json', 'r')
 jsondata = myjsonfile.read()
 
 #parse

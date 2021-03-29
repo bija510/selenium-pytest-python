@@ -2,4 +2,6 @@
 *.png
 geckodriver.log
 /Reports/*
-/logs/
+
+
+

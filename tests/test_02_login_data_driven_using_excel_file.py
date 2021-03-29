@@ -1,9 +1,9 @@
-from pagesObjects.loginPage import LoginPage
+from pages.loginPage import LoginPage
 from selenium import webdriver
 import pytest
-from utilites.customLogger import logGen
-from utilites.readProperties import ReadConfig
-from utilites import XLUtils
+from utilites.custom_logger import logGen
+from utilites.read_ini_file import ReadConfig
+from utilites import excel_util
 import time
 
 class TestloginClass():
@@ -12,10 +12,10 @@ class TestloginClass():
 	# Reading Data from Excel File
 	###############################
 
-	path = "../testData/InputData.xlsx"
-	baseUrl = XLUtils.readData(path, "Sheet1", 2, 1)
-	userName = XLUtils.readData(path, "Sheet1", 3, 1)
-	password = XLUtils.readData(path, "Sheet1", 4, 1)
+	path = "../data/InputData.xlsx"
+	baseUrl = excel_util.readData(path, "Sheet1", 2, 1)
+	userName = excel_util.readData(path, "Sheet1", 3, 1)
+	password = excel_util.readData(path, "Sheet1", 4, 1)
 
 	logger = logGen.loggen()
 
@@ -35,7 +35,7 @@ class TestloginClass():
 			self.logger.error("----------test_login page verification Passed---------")
 
 		else:
-			self.driver.save_screenshot("../Screenshot/" + "testLoginDDT"+ str(round(time.time()*1))+".png")
+			self.driver.save_screenshot("../screenshots/" + "testLoginDDT"+ str(round(time.time()*1))+".png")
 			self.logger.error("----------test_login page verification Failed---------")
 			assert False
 
@@ -43,6 +43,6 @@ class TestloginClass():
 	# Writing data to Excel file
 	#################################
 
-	XLUtils.writeData(path, "Sheet1", 3, 2, "Test_LoginDDT Pass")
+	excel_util.writeData(path, "Sheet1", 3, 2, "Test_LoginDDT Pass")
 
 	# py.test -v -s test_02_login_data_driven_using_excel_file.py --browser chrome

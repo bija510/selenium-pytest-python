@@ -18,6 +18,6 @@ class TestScreenshot():
 		destinationFileName	= "../zTemp/" + "test_Homepage1"+ str(round(time.time()*1))+".png"
 		try:
 			driver.save_screenshot(destinationFileName)
-			print("Screenshot saved to directory --> :: " + destinationFileName)
+			print("screenshots saved to directory --> :: " + destinationFileName)
 		except NotADirectoryError:
 			print("Not a directory issue")

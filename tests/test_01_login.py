@@ -1,8 +1,8 @@
-from pagesObjects.loginPage import LoginPage
+from pages.loginPage import LoginPage
 from selenium import webdriver
 import pytest
-from utilites.customLogger import logGen
-from utilites.readProperties import ReadConfig
+from utilites.custom_logger import logGen
+from utilites.read_ini_file import ReadConfig
 import time
 
 #@pytest.mark.usefixtures('setup') we can do this insted of writing setup in everymethod
@@ -25,7 +25,7 @@ class TestloginClass(): #Class name should start from >>--> Test and method name
 			assert True
 			self.logger.info("----------Home page verification Passed---------")
 		else:
-			self.driver.save_screenshot("../Screenshot/" + "test_Homepage1"+ str(round(time.time()*1))+".png")
+			self.driver.save_screenshot("../screenshots/" + "test_Homepage1"+ str(round(time.time()*1))+".png")
 			self.logger.error("----------Home page verification Failed---------")
 			assert False
 
@@ -46,7 +46,7 @@ class TestloginClass(): #Class name should start from >>--> Test and method name
 			self.logger.error("----------test_login page verification Passed---------")
 
 		else:
-			self.driver.save_screenshot("../Screenshot/" + "test_login"+ str(round(time.time()*1))+".png")
+			self.driver.save_screenshot("../screenshots/" + "test_login"+ str(round(time.time()*1))+".png")
 			self.logger.error("----------test_login page verification Failed---------")
 			assert False
 

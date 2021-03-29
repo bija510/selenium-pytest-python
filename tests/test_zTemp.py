@@ -1,7 +1,7 @@
 from selenium import webdriver
-from pagesObjects.DDTjsonPage import DDTjsonPage
+from pages.DDTjsonPage import DDTjsonPage
 import pytest
-from utilites.customLogger import logGen
+from utilites.custom_logger import logGen
 
 class Testdemoauto:  #Class name should start from >>--> Test
 	global aa
