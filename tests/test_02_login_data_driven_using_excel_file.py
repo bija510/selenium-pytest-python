@@ -1,8 +1,6 @@
 from pages.loginPage import LoginPage
-from selenium import webdriver
 import pytest
 from utilites.custom_logger import logGen
-from utilites.read_ini_file import ReadConfig
 from utilites import excel_util
 import time
 import os
@@ -13,8 +11,7 @@ class TestloginClass():
 	# Reading Data from Excel File
 	###############################
 
-	rawpath = os.getcwd()+ "\\data\\InputData.xlsx"
-	path = rawpath.replace("\\", "/")
+	path = os.getcwd()+ "/data/InputData.xlsx"
 
 	baseUrl = excel_util.readData(path, "Sheet1", 2, 1)
 	userName = excel_util.readData(path, "Sheet1", 3, 1)
@@ -48,4 +45,6 @@ class TestloginClass():
 
 	excel_util.writeData(path, "Sheet1", 3, 2, "Test_LoginDDT Pass")
 
+	#Work from cmd & script level :- C:\Users\Bijaya Chhetri\workspace_python\selenium-pytest-python>
+	#pytest -v -s tests\test_02_login_data_driven_using_excel_file.py::TestloginClass::test_login
 	# py.test -v -s test_02_login_data_driven_using_excel_file.py --browser chrome

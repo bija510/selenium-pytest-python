@@ -1,18 +1,15 @@
-from selenium import webdriver
-from pages.DDTjsonPage import DDTjsonPage
-import pytest
-from utilites.custom_logger import logGen
-import configparser
+
 import os
+import logging
 
 class Testdemoauto:  #Class name should start from >>--> Test
 
 	def test_register(self):
+		logging.basicConfig(filename='C://Users//Bijaya Chhetri//workspace_python//selenium-pytest-python//logs//Test1.log', level=logging.DEBUG)
+		logger = logging.getLogger()
+		logger.setLevel(logging.INFO)
+		logger.warning("just warning")
+		logger.info("just info")
+		logger.error("Just error")
 
-
-		config = configparser.RawConfigParser()
-		config.read(os.getcwd() + "\\configuration\\config.ini")
-
-		print("===>"+os.getcwd() + "\\configuration\\config.ini")
-		print("===>"+"..\\configuration\\config.ini")
-		#pytest -v -s test_zTemp.py --browser chrome
+		#pytest -v -s tests\test_zTemp.py

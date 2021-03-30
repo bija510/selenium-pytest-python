@@ -1,5 +1,4 @@
 from pages.loginPage import LoginPage
-from selenium import webdriver
 import pytest
 from utilites.custom_logger import logGen
 from utilites.read_ini_file import ReadConfig
@@ -51,5 +50,6 @@ class TestloginClass(): #Class name should start from >>--> Test and method name
 			assert False
 
 
-
+		#NOTE:- To run Cmd & local both works
+		# C:\Users\Bijaya Chhetri\workspace_python\selenium-pytest-python>pytest -v -s tests\test_01_login.py
 

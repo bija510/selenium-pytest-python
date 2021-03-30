@@ -8,7 +8,9 @@ ERROR
 CRITICAL
 """
 import logging
-logging.basicConfig(filename='SeleniumWDTutorial/loggingpackage/Test.log',level=logging.DEBUG)
-logging.warning("warning message")
-logging.info("info message")
-logging.error("error message")
+
+def test_logFile():
+	logging.basicConfig(filename='selenium-pytest-python/loggingpackage/Test1.log',level=logging.DEBUG)
+	logging.warning("warning message")
+	logging.info("info message")
+	logging.error("error message")

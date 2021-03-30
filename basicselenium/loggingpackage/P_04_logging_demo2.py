@@ -30,5 +30,5 @@ class LoggingDemo2():
 
 demo = LoggingDemo2()
 demo.method1()
-demo.method2()
-demo.method3()
+# demo.method2()
+# demo.method3()

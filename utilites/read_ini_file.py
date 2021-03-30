@@ -3,7 +3,7 @@ import os
 
 config = configparser.RawConfigParser()
 config.read(os.getcwd()+"/configuration/config.ini")
-#config.read("../configuration/config.ini")
+
 class ReadConfig:
 	@staticmethod
 	def getApplicationURL():

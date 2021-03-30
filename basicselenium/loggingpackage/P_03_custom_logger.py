@@ -1,6 +1,6 @@
 import inspect
 import logging
-
+import os
 def customLogger(logLevel):
     # Gets the name of the class / method from where this method is called
     loggerName = inspect.stack()[1][3]
@@ -8,7 +8,7 @@ def customLogger(logLevel):
     # By default, log all messages
     logger.setLevel(logging.DEBUG)
 
-    fileHandler = logging.FileHandler("SeleniumWDTutorial/loggingpackage/{0}.log".format(loggerName), mode='w')
+    fileHandler = logging.FileHandler(os.getcwd()+"/loggingpackage/{0}.log".format(loggerName), mode='w')
     fileHandler.setLevel(logLevel)
 
     formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s: %(message)s',
