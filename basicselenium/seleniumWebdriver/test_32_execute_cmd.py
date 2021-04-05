@@ -1,22 +1,17 @@
 import os
-
+import subprocess
 
 class TestExecuteFromCmd():
 
 
+#  https://datatofish.com/command-prompt-python/
+	def test_open_cmd_1st_way(self):
+		# This will open the command line
+		os.system("start cmd")
+		os.system('cmd /k ' + 'java -version')
 
-	def test_execute_and_remain(self):
-		#(1) CMD /K – execute a command and then remain:
-		#os.system('cmd /k "Your Command Prompt Command"')
-		path = "cd "+ os.getcwd() + "\\basicselenium\\seleniumWebdriver"
-		print("==>"+path)
-		os.system('cmd /k '+ path)
+	def test_open_cmd_2nd_way(self):
+		subprocess.call('start', shell=True)
 
-		os.system('cmd /k "pytest \\basicselenium\\seleniumWebdriver test_21_mouse_event.py"')
 
-"""
-	def test_execute_and_terminate(self):
-		#(2) CMD /C – execute a command and then terminate:
-		#os.system('cmd /c "Your Command Prompt Command"')
 
-		os.system('cmd /c "color a & date"')"""
