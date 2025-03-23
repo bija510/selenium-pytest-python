@@ -1,7 +1,36 @@
 # Pytest Automation Setup
 
-## Initial Setup
+## Selenium Python Test Automation Framework that includes the following:
+Technologies & Libraries:
+- `Selenium for browser automation`
+- `Pytest for test execution`
+- `Page Object Model (POM) for maintainability`
+- `Allure Report for test reporting`
 
+## Project Structure & Implementation:
+```sh
+Well-structured Python framework using Pytest and Selenium.
+Implement the Page Object Model (POM) pattern.
+Integrate Allure Reports for test execution reports.
+```
+## Folder & File Structure:
+```sh
+selenium-python-framework/
+├── tests/
+│   ├── test_login.py  
+├── pages/
+│   ├── login_page.py  
+├── config/
+│   ├── config.yaml  # Configuration file (URL, credentials, etc.)
+├── utils/
+│   ├── browser_setup.py  # WebDriver initialization  
+├── reports/
+├── requirements.txt
+├── pytest.ini
+├── README.md
+```
+## Initial Setup
+Sample Login Test Implementation:
 ### Steps:
 1. Open **File** → **Settings** → **Project letskoteit** → **Open** → **Project Interpreter**
 2. Click on the **+** sign and install the following dependencies:
@@ -26,7 +55,7 @@ python.exe -m pip install --upgrade pip
 
 ### Install specific version and show selenium version
 ```sh
-pip3 install selenium==4.29
+pip3 install selenium==4.27.1
 ```
 ```sh
 pip3 show selenium
@@ -88,10 +117,6 @@ For more details, refer to the official documentation: [Pytest Naming Convention
 - Add `pause` at the end to keep the console open.
 - Use **Tab** for auto-completion in CMD.
 
-### Install WebDriver Manager
-```sh
-pip install webdriver_manager
-```
 
 ### Check Installed Plugins
 ```sh
