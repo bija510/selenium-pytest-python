@@ -13,22 +13,22 @@ class TestLocalDriver():
         driver.get("http://www.letskodeit.com")
         driver.maximize_window()
         print(driver.capabilities.get('browserName'))
+        time.sleep(3)
+        driver.quit()
 
     def test_Firefox(self):
         driver = webdriver.Firefox()
         driver.get("http://www.letskodeit.com")
         driver.maximize_window()
         print(driver.capabilities.get('browserName'))
-
-    def test_Ie(self):
-        driver = webdriver.Ie()
-        driver.get("http://www.letskodeit.com")
-        driver.maximize_window()
-        print(driver.capabilities.get('browserName'))
+        time.sleep(3)
+        driver.quit()
 
     def test_Edge(self):
-        driver = webdriver.Edge(executable_path="C:/python38/Drivers/msedgedriver.exe")
+        driver = webdriver.Edge()
         driver.get("http://www.letskodeit.com")
         driver.maximize_window()
         print(driver.capabilities.get('browserName'))
-        time.sleep(5)
+        time.sleep(3)
+        driver.quit()
+

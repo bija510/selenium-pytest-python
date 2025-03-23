@@ -9,7 +9,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 class TestExplicitWait():
 
 	def test_explicit_wait(self):
-		driver = webdriver.Chrome(executable_path=ChromeDriverManager().install())
+		driver = webdriver.Chrome()
 		driver.maximize_window()
 		driver.get("https://www.rahulshettyacademy.com/AutomationPractice/")
 
@@ -21,12 +21,12 @@ class TestExplicitWait():
 
 
 	def test_explicit_demo(self):
-		driver = webdriver.Chrome(executable_path=ChromeDriverManager().install())
+		driver = webdriver.Chrome()
 		driver.maximize_window()
 
 		ewait = WebDriverWait(driver, 20)
 		driver.get("http://demo.automationtesting.in/Loader.html")
-		driver.find_element_by_css_selector("button#loader").click()
+		driver.find_element(By.CSS_SELECTOR,"button#loader").click()
 		ewait.until(visibility_of_element_located((By.CSS_SELECTOR, "button.btn.btn-default"))).click()
 		time.sleep(2)
 		driver.quit()

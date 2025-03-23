@@ -1,6 +1,6 @@
 import time
 from selenium import webdriver
-from webdriver_manager.chrome import ChromeDriverManager
+from selenium.webdriver.common.by import By
 
 #=====================================================================================
 # change method color-setting--eiditor--color Scheme--Pythod--function--Method call
@@ -9,13 +9,17 @@ from webdriver_manager.chrome import ChromeDriverManager
 class TestRefreshForwardBack():
 
 	def test_basic(self):
-		driver = webdriver.Chrome(executable_path=ChromeDriverManager().install())
+		driver = webdriver.Chrome()
 		driver.get("https://www.facebook.com")
+		driver.maximize_window()
 		driver.refresh()
 		time.sleep(2)
-		forgetPwdLink = driver.find_element_by_xpath("//a[normalize-space()='Forgot Password?']")
+
+		forgetPwdLink = driver.find_element(By.LINK_TEXT, "Forgot password?")
 		forgetPwdLink.click()
 		time.sleep(2)
 		driver.back()
 		time.sleep(2)
 		driver.forward()
+
+		driver.quit()

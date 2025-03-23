@@ -6,13 +6,13 @@ from webdriver_manager.firefox import GeckoDriverManager
 class TestCalendarSelection(): #working 7/18/2020
 
     def test_datepicker(self):
-        driver = webdriver.Firefox(executable_path=GeckoDriverManager().install())
+        driver = webdriver.Firefox()
         driver.maximize_window()
         driver.get("https://jqueryui.com/datepicker/")
 
-        driver.switch_to.frame(driver.find_element_by_xpath("//iframe[@class='demo-frame']"))
+        driver.switch_to.frame(driver.find_element(By.XPATH,"//iframe[@class='demo-frame']"))
         time.sleep(2)
-        driver.find_element_by_xpath("//input[@id='datepicker']").click()
+        driver.find_element(By.XPATH,"//input[@id='datepicker']").click()
 
         calMonth = driver.find_element(By.XPATH, "//div[@id='ui-datepicker-div']")
         allValidDates = calMonth.find_elements(By.XPATH, "//*[@id='ui-datepicker-div']/table/tbody/tr/td")
@@ -23,3 +23,5 @@ class TestCalendarSelection(): #working 7/18/2020
             if date.text == "15":
                 date.click()
                 break
+
+        driver.quit()

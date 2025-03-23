@@ -1,17 +1,16 @@
 import time
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-from webdriver_manager.firefox import GeckoDriverManager
 
 
 class TestMultipleWindow():
 ##############################################################################################
     def test_multiple_window(self):
-        driver = webdriver.Firefox(executable_path=GeckoDriverManager().install())
+        driver = webdriver.Firefox()
         driver.maximize_window()
         driver.get("https://www.rahulshettyacademy.com/AutomationPractice/")
 
-        driver.find_element_by_xpath("//a[@id='opentab']").click()
+        driver.find_element(By.XPATH, "//a[@id='opentab']").click()
         time.sleep(2)
         print(driver.window_handles.count)
 
@@ -20,12 +19,15 @@ class TestMultipleWindow():
             print(item)
 
         driver.switch_to.window(driver.window_handles[1])
-        print(driver.find_element_by_xpath("//span[contains(text(),'World class')]").text)
+        print(driver.find_element(By.XPATH, "//span[contains(text(),'World class')]").text)
         time.sleep(2)
         driver.switch_to.window(driver.window_handles[0])
+
+        time.sleep(2000)
+        driver.quit()
 ##############################################################################################
     def test_new_tab(self):
-        baseUrl = "https://letskodeit.teachable.com/pages/practice"
+        baseUrl = "https://www.letskodeit.com/practice"
         driver = webdriver.Firefox()
         driver.maximize_window()
         driver.get(baseUrl)

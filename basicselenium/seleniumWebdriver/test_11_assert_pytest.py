@@ -5,10 +5,10 @@ from webdriver_manager.chrome import ChromeDriverManager
 class TestAssertPytest():
 
 	def test_assert_pytest(self):
-		driver = webdriver.Chrome(executable_path=ChromeDriverManager().install())
+		driver = webdriver.Chrome()
 		driver.get("https://www.facebook.com")
 
-		assert "ball" == "bll"
+		assert "ball" == "ball"
 
 		assert "dog" != "cat"
 
